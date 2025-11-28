@@ -5,7 +5,7 @@ This project is a machine learning web application that predicts house prices ba
 ---
 
 ## 📌 Project Overview
-The dataset was cleaned and preprocessed using Python. Two machine learning models, **Linear Regression** and **Ridge Regression**, were trained and evaluated. The models was saved and deployed as a web application using **Streamlit** for real-time house price prediction.
+The dataset was cleaned and preprocessed using Python. Two machine learning models, **Linear Regression** and **Ridge Regression**, were trained and evaluated. The models were saved and deployed as a web application using **Streamlit** for real-time house price prediction.
 
 ---
 
